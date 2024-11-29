@@ -38,7 +38,7 @@ const Qualification = () => {
                 <div className='qualification__data'>
                     <div>
                         <h3 className='qualification__title'>Bachelor Degree</h3>
-                        <span className='qualification__subtitle'>Birmingham City University</span>
+                        <span className='qualification__subtitle'>Birmingham City University (Sunway College Kathamndu)</span>
                         <div className='qualification__calender'>
                             <i className='uil uil-calender-alt'>2023 - Present</i>
                         </div>
