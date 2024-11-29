@@ -5,4 +5,3 @@ export default defineConfig({
   plugins: [react()],
   base: "./", // Ensures correct paths for assets
 });
-
