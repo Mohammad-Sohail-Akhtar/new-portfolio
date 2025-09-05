@@ -1,7 +1,7 @@
 import React from 'react'
 import "./About.css";
 import about from "../../assets/myabout.jpg";
-import CV from "../../assets/INTERNSHIP_CV.pdf";
+import CV from "../../assets/MOHAMMAD_SOHAIL_AKHTAR.pdf";
 import Info from './Info';
 
 const About = () => {

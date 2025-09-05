@@ -9,6 +9,8 @@ import Work8 from "../../assets/book.jpg";
 import Work9 from "../../assets/capital.png";
 import Work10 from "../../assets/youtube.jpg";
 import Work11 from "../../assets/netflix.jpg";
+import Work12 from "../../assets/attendance.png";
+import Work13 from "../../assets/job portal.jpeg";
 
 
 
@@ -67,7 +69,7 @@ export const projectsData = [
       image: Work8,
       title: "Book Store",
       category: "design",
-      link: "https://www.figma.com/design/AnSxEPjs5tODjWfd0sj0k8/web1?node-id=0-1&node-type=canvas&t=6oh6uHZ5u3hGptD2-0"
+      link: "https://www.figma.com/proto/AnSxEPjs5tODjWfd0sj0k8/web1?node-id=319-2&p=f&t=siKalRAFJbPupDm5-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=319%3A2&show-proto-sidebar=1"
     },
     {
       id: 9,
@@ -89,6 +91,20 @@ export const projectsData = [
       title: "Netflix Clone",
       category: "web",
       link: "https://clone-shehjan13.netlify.app"
+    },
+      {
+      id: 12,
+      image: Work12,
+      title: "Attendance System",
+      category: "design",
+      link: "https://www.figma.com/proto/V5M3Sjg0IGxJnf0zbVkCCo/Untitled?node-id=1-40&p=f&t=BdB6yEhGcEHxvezQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A521"
+    },
+    {
+      id: 13,
+      image: Work13,
+      title: "Job Portal",
+      category: "design",
+      link: "https://www.figma.com/proto/WmgzGYY51vIphaxGJnWXHg/Untitled?node-id=1-2&p=f&t=Vw0T8rI4mrNhNjAc-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2"
     },
   ];
 
